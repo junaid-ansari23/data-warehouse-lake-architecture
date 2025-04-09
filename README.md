@@ -5,3 +5,10 @@ Structured and business-critical data is transformed and loaded into the enterpr
 At the same time, semi-structured and high-volume raw data is ingested into an AWS-based data lake for flexible exploration, machine learning, and long-term storage. 
 
 This architecture ensures scalability, performance, and cost-efficiency, enabling multiple downstream use cases including BI dashboards, ad-hoc querying, and advanced analytics.
+
+
+![Logo](deep-dive-aws-pipeline-april-9.drawio.png)
+
+## Ingestion Load Balance
+
+![Logo](dwh-pipeline-loadbalance.png)
