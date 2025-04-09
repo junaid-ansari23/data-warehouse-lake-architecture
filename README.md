@@ -9,6 +9,6 @@ This architecture ensures scalability, performance, and cost-efficiency, enablin
 
 ![Logo](deep-dive-aws-pipeline-april-9.drawio.png)
 
-## Ingestion Load Balance
+## Ingestion Load Distribution
 
 ![Logo](dwh-pipeline-loadbalance.png)
